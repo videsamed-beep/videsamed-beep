@@ -1,9 +1,6 @@
 # Helloo soy Angelica y este es mi perfil
 
-<!--
-*angyviam-spec/angyviam-spec* is a ✨ special ✨ repository because its `RE>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:>
+img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100
 
 ### Estudiante de Ingeniería de Sistemas y Telecomunicaciones
 
